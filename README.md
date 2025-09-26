@@ -4,9 +4,11 @@ A Python Pygame-based educational game simulating the journey of engineered prob
 
 ## How to Run
 
-1. Ensure Python 3 and Pygame are installed: ```
-  pip3 install pygame ```
-2. Run the game: ```
+1. Ensure Python 3 and Pygame are installed:
+  ```
+  pip3 install pygame
+  ```
+3. Run the game: ```
    python3 game.py ```
 ## Controls
 
