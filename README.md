@@ -1,14 +1,13 @@
-# EVIE-Game
-# rEVitalyze: The GlycoQuest
+# rEVitalyze: The GlycoQuest Game
 
 A Python Pygame-based educational game simulating the journey of engineered probiotic EVs delivering PMM2 to treat congenital disorders of glycosylation (CDGs).
 
 ## How to Run
 
-1. Ensure Python 3 and Pygame are installed:
-  pip3 install pygame
-2. Run the game:
-   python3 game.py
+1. Ensure Python 3 and Pygame are installed: ```
+  pip3 install pygame ```
+2. Run the game: ```
+   python3 game.py ```
 ## Controls
 
 - Click the glass to "drink" EV-fortified milk.
