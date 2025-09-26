@@ -8,8 +8,10 @@ A Python Pygame-based educational game simulating the journey of engineered prob
   ```
   pip3 install pygame
   ```
-3. Run the game: ```
-   python3 game.py ```
+3. Run the game:
+   ```
+   python3 game.py
+   ```
 ## Controls
 
 - Click the glass to "drink" EV-fortified milk.
