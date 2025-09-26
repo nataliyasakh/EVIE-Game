@@ -6,7 +6,7 @@ A Python Pygame-based educational game simulating the journey of engineered prob
 
 1. Ensure Python 3 and Pygame are installed:
   ```
-  pip3 install pygame
+   pip3 install pygame
   ```
 3. Run the game:
    ```
